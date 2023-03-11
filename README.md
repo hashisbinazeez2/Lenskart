@@ -7,7 +7,7 @@
     <title>Lenskart</title>
     <link rel="icon" type="image/png" href="kindpng_7505045.png" sizes="15x10" />
     <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="lenskartstyle.css">
+    <link rel="stylesheet" href="lenskartstyle.css" type="text/css">
 </head>
 <body>
     <nav class="fnav">
